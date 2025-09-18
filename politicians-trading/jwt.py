@@ -21,7 +21,7 @@ users_db = {
     }
 }
 
-API_KEY = "DsQf0UrvnDvhs445uq6OKlAjiXitv4qI"
+API_KEY = ""
 BASE_URL = "https://financialmodelingprep.com/stable"
 
 app = FastAPI()
